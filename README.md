@@ -11,7 +11,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum euismod tellus at blandit tempor.
 
-![Static Badge](https://img.shields.io/badge/release-v0.1.0-orange)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/developerasun/reponame)
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue)
 
 <img src="./docs/demo.gif" width="100%" />
