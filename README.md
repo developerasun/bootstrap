@@ -22,10 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum euismod tell
 
 - [introduction](#introduction)
 - [installation](#installation)
-- [getting started](#getting-started)
-- [setup](#setup)
-  - [package manager](#package-manager)
-- [commands](#commands)
 - [reference](#reference)
 
 ## introduction
@@ -35,47 +31,6 @@ TBD
 ## installation
 
 TBD
-
-## getting started
-
-TBD
-
-## setup
-
-### package manager
-
-install `asdf` package manager first.
-
-```sh
-# download asdf binary from github release page
-# https://github.com/asdf-vm/asdf/releases
-```
-
-check plugins.
-
-```sh
-asdf plugin list
-```
-
-add a plugin for a targeted side project.
-
-```sh
-asdf plugin add [language]
-asdf install [language]
-```
-
-set it.
-
-```sh
-asdf set [language] [version]
-asdf reshim [language]
-```
-
-check it.
-
-```sh
-asdf current [language]
-```
 
 ## reference
 
